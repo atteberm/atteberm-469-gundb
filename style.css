@@ -1,0 +1,67 @@
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+	border-color: #DDDDDD;
+	
+}
+
+td {
+	text-align: center;
+}
+
+table {
+	table-layout: fixed;
+	width: 100%;
+	color: #DDDDDD;
+}
+
+.container {
+	display: flex;
+}
+
+textarea {
+	width: 100%;
+	resize: vertical;
+	min-height: 50px;
+	font-family: helvetica;
+}
+
+.tabs {
+	display: flex;
+	width: 50%;
+	justify-content: space-around;
+}
+
+html {
+	font-family: arial;
+	background-color: #363636;
+	color: #DDDDDD;
+}
+
+a:visited, a:link {
+	color: burlywood;
+	text-decoration: none;
+}
+
+#csv-ref {
+	min-width: 512px;
+}
+
+button {
+	margin: 10px;
+	border: none;
+	padding: 10px;
+	font-family: verdana;
+}
+
+#select-csv {
+	margin: 10px;
+	padding: 10px;
+	font-family: verdana;
+
+}
+
+#rng-out {
+	min-width: 512px;
+	
+}
