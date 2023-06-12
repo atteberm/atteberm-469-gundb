@@ -17,7 +17,7 @@ The web-app is designed to run through Docker. To run Docker, if you are on Wind
 
 ### II. Install web-app files
 
-1. Download the .zip from the most recent release in the releases, seen [here](https://github.com/atteberm/atteberm-469-gundb/releases/tag/release)
+1. Download the .zip from the most recent release in the releases, seen [here](https://github.com/atteberm/atteberm-469-gundb/releases)
 2. Unzip the contents into a desired directory
 3. Verify that all the contents from the .zip are in the same directory
 
