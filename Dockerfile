@@ -5,7 +5,6 @@ WORKDIR /var/www/html
 COPY index.php index.php
 COPY edit-page.php edit-page.php
 COPY style.css style.css
-COPY script.js script.js
 COPY submit.php submit.php
 
 COPY pistol.csv pistol.csv
