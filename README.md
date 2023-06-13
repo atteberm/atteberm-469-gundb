@@ -21,7 +21,7 @@ The web-app is designed to run through Docker. To run Docker, if you are on Wind
 2. Unzip the contents into a desired directory
 3. Verify that all the contents from the .zip are in the same directory
 
-### III. Run the web app through Docker
+### III. Run the web-app through Docker
 
 1. Open Docker Desktop, make sure you open it to the "Images" tab within the program. 
 2. Open a Windows Powershell prompt and navigate to the folder which you have installed the web-app files. 
